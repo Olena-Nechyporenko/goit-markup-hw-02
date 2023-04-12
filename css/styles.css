@@ -65,7 +65,7 @@ body {
 
 /* MAIN */
 
-/* HERO */
+/* HERO.SECTION 1 */
 .hero {
   background-color: var(--brand-color);
 }
@@ -94,12 +94,12 @@ body {
   background-color: #404bbf;
 }
 
-/* SECTION 1.FEATURES */
+/* SECTION 2.FEATURES */
 
 .title {
   font-weight: 500;
   font-size: 20px;
-  line-height: 0.2;
+  line-height: 1.2;
   letter-spacing: 0.02em;
   color: var(--brand-color);
 }
@@ -111,18 +111,18 @@ body {
   letter-spacing: 0.02em;
 }
 
-/* SECTION 2.WHAT ARE WE DOING */
+/* SECTION 3.WHAT ARE WE DOING */
 .heading {
   font-weight: 700;
   font-size: 36px;
-  line-height: 1.2;
+  line-height: 1.11;
   letter-spacing: 0.02em;
   text-align: center;
   text-transform: capitalize;
   color: var(--brand-color);
 }
 
-/* SECTION 3.OUR TEAM  */
+/* SECTION 4.OUR TEAM  */
 .our-team {
   background-color: #f4f4fd;
 }
